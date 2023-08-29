@@ -1,0 +1,10 @@
+{
+    "first_name" : "Sairaj",
+    "sur_name" : "Aftab",
+    "email" : "sairajaftab6@gmail.com",
+    "password" : "sairaj",
+    "gender" : "Male",
+    "birth_date" : 23,
+    "birth_month" : "February",
+    "birth_year" : 2002
+}

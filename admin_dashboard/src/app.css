@@ -1,0 +1,9 @@
+.card-table .card-body {
+  padding: 15px 15px 0 15px !important;
+}
+.dataTables_filter {
+  display: none !important;
+}
+.dataTables_paginate .paging_simple_numbers {
+  transform: translateY(-25px);
+}
